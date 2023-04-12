@@ -20,7 +20,11 @@ namespace Tarefas.AMQP.Servicos
             
             var body = Encoding.UTF8.GetBytes("Ola rabitt");
 
-            var factory = new ConnectionFactory { HostName = "localhost" };
+            var factory = new ConnectionFactory { HostName = "localhost", 
+                                                 UserName = "admin",
+                                                 Password  = "123456"
+            };
+
             _connection = factory.CreateConnection();
             _channel = _connection.CreateModel();
 
@@ -71,7 +75,7 @@ namespace Tarefas.AMQP.Servicos
             
                     
 
-                _channel.BasicConsume(queue: _queueName, autoAck: true, consumer: consumer);
+                //_channel.BasicConsume(queue: _queueName, autoAck: true, consumer: consumer);
             
         }
 
