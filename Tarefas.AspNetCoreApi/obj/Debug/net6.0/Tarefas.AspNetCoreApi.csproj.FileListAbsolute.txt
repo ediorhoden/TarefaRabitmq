@@ -1,0 +1,366 @@
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.exe
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.deps.json
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.runtimeconfig.json
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.pdb
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Model.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Model.pdb
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.csproj.AssemblyReference.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.AssemblyInfoInputs.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.AssemblyInfo.cs
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.Tarefas.AspNetCoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Tarefas.AspNetCoreApi.props
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tarefas.AspNetCoreApi.props
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tarefas.AspNetCoreApi.props
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\scopedcss\bundle\Tarefas.AspNetCoreApi.styles.css
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.csproj.CopyComplete
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\refint\Tarefas.AspNetCoreApi.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.pdb
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.genruntimeconfig.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\ref\Tarefas.AspNetCoreApi.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AMQP.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AMQP.pdb
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.deps.json
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.runtimeconfig.json
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.exe
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.pdb
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\MySQLConnection.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\appsettings.json
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.deps.json
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.runtimeconfig.json
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.exe
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.exe
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.deps.json
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.runtimeconfig.json
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.pdb
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Dapper.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\MySql.Data.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\MySQLConnection.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AMQP.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Model.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AMQP.pdb
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Model.pdb
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.pdb
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.csproj.AssemblyReference.cache
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.AssemblyInfoInputs.cache
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.AssemblyInfo.cs
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.csproj.CoreCompileInputs.cache
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.Tarefas.AspNetCoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Tarefas.AspNetCoreApi.props
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tarefas.AspNetCoreApi.props
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tarefas.AspNetCoreApi.props
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\scopedcss\bundle\Tarefas.AspNetCoreApi.styles.css
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.csproj.CopyComplete
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\refint\Tarefas.AspNetCoreApi.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.pdb
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.genruntimeconfig.cache
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\ref\Tarefas.AspNetCoreApi.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.exe
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.pdb
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Dapper.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\MySql.Data.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AMQP.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Model.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.csproj.AssemblyReference.cache
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.AssemblyInfoInputs.cache
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.AssemblyInfo.cs
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.csproj.CoreCompileInputs.cache
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.deps.json
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.runtimeconfig.json
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.exe
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\appsettings.json
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.deps.json
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AspNetCoreApi.runtimeconfig.json
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\MySQLConnection.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.AMQP.pdb
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Model.pdb
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\bin\Debug\net6.0\Tarefas.Salvar.DataBase.pdb
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.Tarefas.AspNetCoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Tarefas.AspNetCoreApi.props
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tarefas.AspNetCoreApi.props
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tarefas.AspNetCoreApi.props
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\scopedcss\bundle\Tarefas.AspNetCoreApi.styles.css
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.csproj.CopyComplete
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\refint\Tarefas.AspNetCoreApi.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.pdb
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\Tarefas.AspNetCoreApi.genruntimeconfig.cache
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AspNetCoreApi\obj\Debug\net6.0\ref\Tarefas.AspNetCoreApi.dll

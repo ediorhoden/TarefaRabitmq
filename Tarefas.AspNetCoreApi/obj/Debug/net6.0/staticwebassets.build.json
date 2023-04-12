@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OSPb3KaNgV2+q34YvV06vOivnIHH0FqULWLLqrR2itY=",
+  "Source": "Tarefas.AspNetCoreApi",
+  "BasePath": "_content/Tarefas.AspNetCoreApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

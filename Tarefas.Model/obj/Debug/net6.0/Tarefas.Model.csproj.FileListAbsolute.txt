@@ -1,0 +1,36 @@
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.Model\bin\Debug\net6.0\Tarefas.Model.deps.json
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.Model\bin\Debug\net6.0\Tarefas.Model.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.Model\bin\Debug\net6.0\Tarefas.Model.pdb
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.csproj.AssemblyReference.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.AssemblyInfoInputs.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.AssemblyInfo.cs
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\refint\Tarefas.Model.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.pdb
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\ref\Tarefas.Model.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.Model\bin\Debug\net6.0\Tarefas.Model.deps.json
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.Model\bin\Debug\net6.0\Tarefas.Model.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.Model\bin\Debug\net6.0\Tarefas.Model.pdb
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.csproj.AssemblyReference.cache
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.AssemblyInfoInputs.cache
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.AssemblyInfo.cs
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.csproj.CoreCompileInputs.cache
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\refint\Tarefas.Model.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.pdb
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\ref\Tarefas.Model.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.Model\bin\Debug\net6.0\Tarefas.Model.deps.json
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.Model\bin\Debug\net6.0\Tarefas.Model.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.Model\bin\Debug\net6.0\Tarefas.Model.pdb
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.csproj.AssemblyReference.cache
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.AssemblyInfoInputs.cache
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.AssemblyInfo.cs
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.csproj.CoreCompileInputs.cache
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\refint\Tarefas.Model.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\Tarefas.Model.pdb
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.Model\obj\Debug\net6.0\ref\Tarefas.Model.dll

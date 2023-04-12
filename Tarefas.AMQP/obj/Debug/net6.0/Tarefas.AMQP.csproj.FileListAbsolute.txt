@@ -1,0 +1,45 @@
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.AMQP.deps.json
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.AMQP.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.AMQP.pdb
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.Model.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.Model.pdb
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.csproj.AssemblyReference.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.AssemblyInfoInputs.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.AssemblyInfo.cs
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.csproj.CopyComplete
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\refint\Tarefas.AMQP.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.pdb
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\ref\Tarefas.AMQP.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.AMQP.deps.json
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.AMQP.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.AMQP.pdb
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.Model.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.Model.pdb
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.csproj.AssemblyReference.cache
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.AssemblyInfoInputs.cache
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.AssemblyInfo.cs
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.csproj.CoreCompileInputs.cache
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.csproj.CopyComplete
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\refint\Tarefas.AMQP.dll
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.pdb
+C:\Proj\ListaDeTarefas-main\ListaDeTarefas-main\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\ref\Tarefas.AMQP.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.AMQP.deps.json
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.AMQP.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.AMQP.pdb
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.Model.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.Model.pdb
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.csproj.AssemblyReference.cache
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.AssemblyInfoInputs.cache
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.AssemblyInfo.cs
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.csproj.CoreCompileInputs.cache
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.csproj.CopyComplete
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\refint\Tarefas.AMQP.dll
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.pdb
+C:\Projetos\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\ref\Tarefas.AMQP.dll
